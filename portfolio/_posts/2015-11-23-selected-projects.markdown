@@ -2,7 +2,7 @@
 layout: post
 title:  "Selected Projects"
 date:   2015-11-23 16:54:37 -0500
-categories: The Iron Yard
+categories: the_iron_yard
 ---
 
 <p>
