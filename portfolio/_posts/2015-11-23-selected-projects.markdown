@@ -10,6 +10,10 @@ categories: The Iron Yard
 
 ### [Brew Keeper][brew-keeper-gh]
 
+<div style="align: center; float: right; width: 220px; padding-left: 10px">
+<img src="{{ site.baseurl }}/assets/brew-keeper-iphone.png" >
+</div>
+
 **Web app to _create_, _brew_, _refine_, _store notes on_, and _share_ coffee recipes. (Final Project)**  
 
 Each student at The Iron Yard was required to pitch a final project idea, and I had been having difficulty coming up with one that was feasible. Although I came up with this project at 3:30&nbsp;a.m. on pitch day, I was very excited about the idea and was thrilled when we started working on it less than 12 hours later.  
@@ -26,6 +30,10 @@ Each student at The Iron Yard was required to pitch a final project idea, and I 
 ### [URLy Bird][urly-bird-gh]
 
 **Web app with URL-shortening functionality.**  
+
+<img src="{{ site.baseurl }}/assets/urly-bird.png">
+
+<br>
 
 We worked very quickly and had most of "normal mode" covered by Saturday, so were able to focus on polishing up the layout and bootstrap implementation. I am proud of how nice this ended up looking.  
 
@@ -44,6 +52,8 @@ We worked very quickly and had most of "normal mode" covered by Saturday, so wer
 ### [American Time Use Survey Analysis][atus-gh]
 
 **IPython Notebook containing analysis of the [American Time Use Survey data][atus-data]**  
+
+This assignment was largely unguided, with the aim of exploring an unknown data source for ourselves. Getting my initial bearings was a challenge, as there were many files and a huge number of data points (not to mention the coded field names!). I focused on normal activities to ensure the data set was large enough to have relevance.  
 
 **Project Details**  
 **Time:** 3.5 days  
@@ -72,6 +82,8 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 
 
 ### [Road Rage][road-rage-gh]
+
+**IPython Notebook containing traffic simulation to determine ideal speed limit.**  
 
 
 
