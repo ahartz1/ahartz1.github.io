@@ -4,6 +4,13 @@ title:  "Selected Projects"
 date:   2015-11-23 16:54:37 -0500
 categories: The Iron Yard
 ---
+
+<p>
+Below are 6 of the <a href="https://github.com/tiyd-python-2015-08/assigments/tree/fee-collab" >28 projects</a> that I worked on as part of my Python Engineering class at The Iron Yard, Durham. Each title links to the associated GitHub repository. I have broken them out into the three overarching categories of (1) <a href="#django">Django</a>, (2) <a href="#data-science">Data Science</a>, and (3) <a href="#pure-python">Pure Python</a>.
+</p>
+
+<a name="django" />
+
 ## Django
 
 ---
@@ -21,7 +28,7 @@ Each student at The Iron Yard was required to pitch a final project idea, and I 
 **Project Details**  
 **Time:** 20 days  
 **Collaborators:** Shay Hall (FEE), David White (FEE), and Kathleen Rauh (Python)  
-**Python Tools that I Used:** Django, Django REST API framework, PostgreSQL, Heroku, Travis-CI, DRF Nested Routers, Django CORS Headers, Mailgun  
+**Python Tools:** Django, Django REST API framework, PostgreSQL, Heroku, Travis-CI, DRF Nested Routers, Django CORS Headers, requests, nose, Mailgun  
 **Full Site:** [www.brew-keeper.com](www.brew-keeper.com)  
 **API Wiki:** [Development Notes][brew-keeer-dn]
 
@@ -35,15 +42,17 @@ Each student at The Iron Yard was required to pitch a final project idea, and I 
 
 <br>
 
-We worked very quickly and had most of "normal mode" covered by Saturday, so were able to focus on polishing up the layout and bootstrap implementation. I am proud of how nice this ended up looking.  
+We worked very quickly and had "normal mode" covered by Saturday, giving us time to focus on polishing up the layout and bootstrap implementation.  
 
 **Project Details**  
 **Time:** 3.5 days  
 **Collaborator:** Tyler Kotkin (Python)  
-**Python Tools that I Used:** Django, PostgreSQL, Bootstrap 3, Heroku
+**Python Tools:** Django, PostgreSQL, Bootstrap 3, Heroku
 
 
 <br>
+
+<a name="data-science" />
 
 ## Data Science
 
@@ -57,36 +66,42 @@ This assignment was largely unguided, with the aim of exploring an unknown data 
 
 **Project Details**  
 **Time:** 3.5 days  
-**Python Tools that I Used:** pandas, NumPy, Matplotlib, IPython Notebook, datetime  
+**Python Tools:** pandas, NumPy, Matplotlib, IPython Notebook, datetime  
 **IPython Notebook:** [ATUS ipynb][atus-ipynb]  
 
 
 <br>
 
 
-### [Ultimate Pig][ultimate-pig-gh]
+### [Programming Language Classifier][pl-classifier-gh]  
 
-**IPython Notebook containing analysis of the dice game "pig."**  
+**IPython Notebook loading and executing custom featurizers**  
 
+The challenge of this assignment was two-fold: (1) collect and access a corpus of snippets of programming languages and (2) use Scikit-Learn tools to classify the test snippets as accurately as possible. I manually built extensive featurizers and accompanying tests to be used with the `DecisionTreeClassifier` because the Naive Bayes classifier gave poor results for my data set.
 
-Pig is a form of solitaire in which the player has 7 rounds to roll a single die one or more times, adding the results as they go; however, a round's score is 0 if they roll a 1.  
-
-The goal of this assignment was to use a Monte Carlo simulation to determine the strategy for scoring the highest possible points. What I liked about this assignment was the unexpected shape of the resulting graphs, the meaning of which I was later able to understand.
 
 **Project Details**  
-**Time:** 1 day  
-**Python Tools that I Used:** random, math, statistics, Matplotlib, IPython Notebook  
-**IPython Notebook:** [Ultimate Pig ipynb][ultimate-pig-ipynb]
+**Time:** 3.5 days  
+**Python Tools:** sklearn, nose, Matplotlib, IPython Notebook  
+**IPython Notebook:** [Programming Language Classifier ipynb][pl-classifier-ipynb]
 
 <br>
 
 
 ### [Road Rage][road-rage-gh]
 
-**IPython Notebook containing traffic simulation to determine ideal speed limit.**  
+**IPython Notebook presenting traffic simulation.**  
 
+The goal of this assignment was to use a Monte Carlo simulation to determine the ideal speed limit for a 1&nbsp;km stretch of road. I put a lot of effort into a version of hard mode that, although working, needed just a bit more troubleshooting.
 
+**Project Details**  
+**Time:** 3.5 days  
+**Python Tools:** random, math, NumPy, Matplotlib, IPython Notebook  
+**IPython Notebook:** [Road Rage ipynb][road-rage-ipynb]
 
+<br>
+
+<a name="pure-python" />
 
 ## Pure Python
 
@@ -94,9 +109,13 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 
 ### [Mystery Word / Evil Mystery Word][mystery-word-gh]  
 
-**
+**Command-line game**  
 
+This first weekend project was a lot of fun to put together. I was able to finish the normal mode on Saturday afternoon, so was able to fully tackle the "Evil" version of the game—just try to beat it!
 
+**Project Details**  
+**Time:** 3.5 days  
+**Python Tools:** deepcopy, os, random, unittest
 
 
 
@@ -109,5 +128,5 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 [atus-ipynb]:        https://github.com/ahartz1/atus-analysis/blob/master/atus-analysis.ipynb
 [road-rage-gh]:     https://github.com/ahartz1/road-rage
 [road-rage-ipynb]:   https://github.com/ahartz1/road-rage/blob/master/road-rage.ipynb
-[ultimate-pig-gh]:  https://github.com/ahartz1/ultimate-pig
-[ultimate-pig-ipynb]: https://github.com/ahartz1/ultimate-pig/blob/master/ultimate-pig.ipynb
+[pl-classifier-gh]:  https://github.com/ahartz1/programming-language-classifier
+[pl-classifier-ipynb]: https://github.com/ahartz1/programming-language-classifier/blob/master/programming-language-classifier.ipynb
