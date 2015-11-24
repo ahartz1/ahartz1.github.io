@@ -8,15 +8,22 @@ categories: The Iron Yard
 
 #### [Brew Keeper][brew-keeper-gh] (Final Project)
 
+Project Details:  
+20 Days  
+Worked with Shay Hall (FEE), David White (FEE), and Kathleen Rauh (Python)  
+Python Tools that I Used: Django, Django REST API framework, PostgreSQL, Heroku, Travis-CI, Nested DRF Routers, Django CORS Headers, Mailgun
 
-|Days    | Other Contributors | Python Tools
-|----    | ------------------ | ------------
-|20      | Shay&nbsp;Hall&nbsp;(FEE), David&nbsp;White&nbsp;(FEE), Kathleen&nbsp;Rauh&nbsp;(Python) | Django, Django REST API framework, Heroku, Travis-CI, PostgreSQL, Nested DRF Routers, Django CORS Headers, Mailgun
-
+<br>
 
 #### [URLy Bird][urly-bird-gh]
 
-3 days
+Project Details:  
+3 Days
+Worked with Tyler Kotkin (Python)
+Python Tools that I Used: Django, PostgreSQL Bootstrap 3, Heroku
+
+
+<br>
 
 ### Data Science
 
