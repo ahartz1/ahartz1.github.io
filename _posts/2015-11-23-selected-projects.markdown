@@ -60,7 +60,7 @@ We worked very quickly and had "normal mode" covered by Saturday, giving us time
 
 ### [American Time Use Survey Analysis][atus-gh]
 
-**IPython Notebook containing analysis of the [American Time Use Survey data][atus-data]**  
+**IPython Notebook containing analysis of the [American Time Use Survey data][atus-data].**  
 
 This assignment was largely unguided, with the aim of exploring an unknown data source for ourselves. Getting my initial bearings was a challenge, as there were many files and a huge number of data points (not to mention the coded field names!). I focused on normal activities to ensure the data set was large enough to have relevance.  
 
@@ -75,7 +75,7 @@ This assignment was largely unguided, with the aim of exploring an unknown data 
 
 ### [Programming Language Classifier][pl-classifier-gh]  
 
-**IPython Notebook loading and executing custom featurizers**  
+**IPython Notebook loading and executing custom featurizers.**  
 
 The challenge of this assignment was two-fold: (1) collect and access a corpus of snippets of programming languages and (2) use Scikit-Learn tools to classify the test snippets as accurately as possible. I manually built extensive featurizers and accompanying tests to be used with the `DecisionTreeClassifier` because the Naive Bayes classifier gave poor results for my data set.
 
@@ -109,7 +109,7 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 
 ### [Mystery Word / Evil Mystery Word][mystery-word-gh]  
 
-**Command-line game**  
+**Command-line "hangman"-style game.**  
 
 This first weekend project was a lot of fun to put together. I was able to finish the normal mode on Saturday afternoon, so was able to fully tackle the "Evil" version of the game—just try to beat it!
 
