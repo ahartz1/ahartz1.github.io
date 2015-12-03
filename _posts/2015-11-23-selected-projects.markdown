@@ -111,7 +111,7 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 
 **Command-line program to provide meaningful access to data in the MovieLens 100k database.**  
 
-The purpose of this project was to make effective use of classes, list comprehensions, the `csv` module to read in data.  
+The purpose of this project was to make effective use of classes, list comprehensions, the `csv` module to read in data. I built a Django app later in the class that has similar functionality for the MovieLens 1M data set.  
 
 **Project Details**  
 **Time:** 3.5 days  
