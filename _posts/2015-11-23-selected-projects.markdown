@@ -6,7 +6,7 @@ categories: the_iron_yard
 ---
 
 <p>
-Below are 6 of the <a href="https://github.com/tiyd-python-2015-08/assigments/tree/fee-collab" >28 projects</a> that I worked on as part of my Python Engineering class at The Iron Yard, Durham. Each title links to the associated GitHub repository. I have broken them out into the three overarching categories of (1) <a href="#django">Django</a>, (2) <a href="#data-science">Data Science</a>, and (3) <a href="#pure-python">Pure Python</a>.
+Below are 7 of the <a href="https://github.com/tiyd-python-2015-08/assigments/tree/fee-collab" >28 projects</a> that I worked on as part of my Python Engineering class at The Iron Yard, Durham. Each title links to the associated GitHub repository. I have broken them out into the three overarching categories of (1) <a href="#django">Django</a>, (2) <a href="#data-science">Data Science</a>, and (3) <a href="#pure-python">Pure Python</a>.
 </p>
 
 <a name="django" />
@@ -107,11 +107,25 @@ The goal of this assignment was to use a Monte Carlo simulation to determine the
 
 ---
 
+### [What to Watch][what-to-watch-gh]  
+
+**Command-line program to provide meaningful access to data in the MovieLens 100k database.**  
+
+The purpose of this project was to make effective use of classes, list comprehensions, the `csv` module to read in data.  
+
+**Project Details**  
+**Time:** 3.5 days  
+**Python Tools:** csv, math, os, sys  
+
+
+<br>
+
+
 ### [Mystery Word / Evil Mystery Word][mystery-word-gh]  
 
 **Command-line "hangman"-style game.**  
 
-This first weekend project was a lot of fun to put together. I was able to finish the normal mode on Saturday afternoon, so was able to fully tackle the "Evil" version of the game—just try to beat it!
+This was the very first weekend project and was a lot of fun to put together. I was able to finish the normal mode on Saturday afternoon, so was able to fully tackle the "Evil" version of the game—just try to beat it!
 
 **Project Details**  
 **Time:** 3.5 days  
@@ -130,3 +144,4 @@ This first weekend project was a lot of fun to put together. I was able to finis
 [road-rage-ipynb]:   https://github.com/ahartz1/road-rage/blob/master/road-rage.ipynb
 [pl-classifier-gh]:  https://github.com/ahartz1/programming-language-classifier
 [pl-classifier-ipynb]: https://github.com/ahartz1/programming-language-classifier/blob/master/programming-language-classifier.ipynb
+[what-to-watch-gh]: https://github.com/ahartz1/what-to-watch
