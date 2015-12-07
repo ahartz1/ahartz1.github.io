@@ -10,7 +10,7 @@ Below are 5 more selections from the <a href="https://github.com/tiyd-python-201
 </p>
 
 
-<h3 class="invertwide">American Time Use Survey Analysis</h3>
+<h3 class="invertwide">ATUS Analysis</h3>
 
 <p><strong>IPython Notebook containing analysis of the <a href="http://www.bls.gov/tus/home.htm#data">American Time Use Survey data</a>.</strong>  </p>
 

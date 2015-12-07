@@ -252,6 +252,7 @@ pre {
   border-top-right-radius: 10px;
   margin-top: 3.2em;
   clear: both;
+  display: block;
   a {
       color: $background-color;
       text-decoration: none;
@@ -273,6 +274,7 @@ pre {
   background-color: $background-color !important;
   color: $brand-color !important;
   border: 2px solid $brand-color;
+  display: block;
 }
 
 .myfeatured {
