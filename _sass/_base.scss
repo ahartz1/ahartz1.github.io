@@ -267,6 +267,14 @@ pre {
   }
 }
 
+.roundbottom {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: $background-color !important;
+  color: $brand-color !important;
+  border: 2px solid $brand-color;
+}
+
 .myfeatured {
   clear: both;
 }

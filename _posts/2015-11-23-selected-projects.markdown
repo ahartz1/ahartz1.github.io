@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Additional Selected Projects
+title: Other Selected Projects
 date: '2015-11-23 16:54:37 -0500'
 categories: the_iron_yard
 ---
